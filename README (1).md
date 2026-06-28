@@ -7,11 +7,6 @@ A Netflix-inspired streaming platform homepage built with pure HTML and CSS. No 
 
 ---
 
-## 📸 Preview
-
-![MANMOH Homepage](screenshot.png)
-
----
 
 ## ✨ Features
 
